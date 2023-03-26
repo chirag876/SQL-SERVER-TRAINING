@@ -1,2 +1,9 @@
 # SQL-SERVER-TRAINING
-**Here are the SQL Server files which I have created during my On-the-job training (OJT) with KMG IT Services.**
+**These are major sql server topics to learn and practice, please feel free use it for learning purpose.**
+
+**Here are links of websites which I refered for learning SQL**
+
+**1> W3Schools: https://www.w3schools.com/sql/default.asp**
+**2> JavaTPoint: https://www.javatpoint.com/sql-tutorial**
+**3> TutorialsTeacher: https://www.tutorialsteacher.com/sql**
+**4> TutorialRepublic: https://www.tutorialrepublic.com/sql-tutorial/**
